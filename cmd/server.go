@@ -1,3 +1,7 @@
+/*
+Copyright © 2025 Anton Savchuk solaris24@gmail.com
+*/
+
 package cmd
 
 import (
